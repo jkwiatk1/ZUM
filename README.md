@@ -14,6 +14,8 @@ Wykorzystane algorytmy:
 * drzewo decyzyjne (ang. decision tree)
 * las losowy (ang. random tree forest)
 * gradient boost
+* SGD Classifier
+* Logistic Regression
 * klasyfikator bayesowski (ang. naivy bayes)
 
 ## Zbiór danych
@@ -22,3 +24,8 @@ Zawiera ankietę satysfakcji pasażerów różnych linii lotniczych pozwalający
 jak silnie poszczególne czynniki są skorelowane z zadowolonym (lub niezadowo-
 lonym) pasażerem.
 - Zbiór: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
+
+## Realizacja i wyniki
+Kwestie implementacyjne, uzyskane wyniki oraz opisy wybranych klasyfikatorów obszernie opisano w dokumentacji projektowej:
+https://github.com/jkwiatk1/ZUM/blob/main/Dokumentacja_koncowa_ZUM.pdf
